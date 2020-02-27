@@ -15,6 +15,8 @@ Quel est le format (type de fichier) ?
 .csv
 
 Comment les visualiser ?
+Grace au lien :
+https://datahub.io/core/usa-education-budget-analysis/r/0.html
 
 
 
