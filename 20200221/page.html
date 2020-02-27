@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    
+    circle:hover {
+        fill:black;
+    }
+
+    @keyframes blink {
+  from {
+    font-size: 0
+  }
+  to {
+    font-size: 200
+  }
+}
+text {
+  animation-duration: 3s;
+  animation-name: blink;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+    </style>
+</head>
+<body>
+    <svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+    <g transform="rotate(20, 20, 60)">
+        <circle id="c" cx="50" cy="50" r="40" fill="lightpink"
+            stroke="hotpink" stroke-width="5" opacity="0.5" />
+        <circle cx="200" cy="50" r="40" fill="lightpink"
+            stroke="hotpink" stroke-width="5" opacity="0.5" />
+        <circle id="c1" cx="350" cy="50" r="40" fill="lightpink"
+            stroke="hotpink" stroke-width="5" opacity="0.5" />
+        <text x="200" y="100" font-size="100" fill="lightpink" stroke="hotpink" stroke-width="2" text-anchor="middle">Majka</text>
+    </g>
+    </svg> 
+
+
+</body>
+<script>
+    let c = document.getElementById("c")
+    let isBig = true
+
+
+    c.addEventListener('click', () => {
+        c.setAttribute('r', isBig?20 : 40)
+        isBig = !isBig
+        console.log({isBig})    
+    })
+
+    let c1 = document.getElementById("c1")
+    let isSmall = true
+
+
+    c1.addEventListener('click', () => {
+        c1.setAttribute('r', isSmall?40 : 80)
+        isSmall = !isSmall
+        console.log({isSmall})    
+    })
+
+    </script>
+</html>
