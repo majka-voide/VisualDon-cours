@@ -1,0 +1,9 @@
+# Confinement et internet
+
+En ces temps de confinement, il y a beaucoup de moyens qui permettent aux étudiants et aux gens en général de conserver le lien social et de maintenir la dynamique du train de vie quotidien. Il existe énormément de plateforme permettant des conférence audio / vidéo très efficace. Avec le nombre conséquent de gens qui utilisent en ce moment ces différents programmes, que ce soit dans le cadre du télétravail ou d'un point de vue social, il peut arriver un surchargement de réseau et des interférences peuvent survenir mais celles-ci sont vraiment minimes. 
+
+Personellement, je ne suis pas quelqu'un d'exagéremment sociale qui a besoin d'interragir avec énormément de monde et je me suis confiné avec le cercle de personnes qui me sont le plus proches. Par conséquent, je n'ai pas vraiment ressenti de lacunes d'interractions quelconques que les médias n'ont pu combler. Cependant, je peux concevoir que les sens de l'être humains tels que l'odorat et le toucher ne sont pas tous autant suscités que lors d'une interraction physique et aucun média ne pourra y les substituer. 
+
+J'ai pu constaté que lorsque je suis en cours, les échanges sont plus factuels que ceux en ligne. Avec les conférences vidéo et les cours en ligne par le biais de caméra, on rentre d'avantage dans l'intimité de chacun et il peut être dréangeant de se dévoiler de la sorte. 
+
+Pour certains cours techniques, je trouve que la solution d'utiliser des plateformes telles que Twitch ou Teams avec l'option de partage d'écran est excellente. Effectivement, l'enseignant peut donner son cours de la même manière qu'il l'aurait fait à la HEIG et les étudiants peuvent suivre pas à pas toutes les étapes. 
