@@ -4,10 +4,19 @@ import { select, geoNaturalEarth1, geoPath } from 'd3'
 // importer les pays
 import countries from './pays.json'
 import deathrateSmoking from './deathrate-smoking.json'
-const countriesFeatures = countries.features
 
-console.log(countriesFeatures)
+const cleanDeathRate = deathrateSmoking.filter(d => d.Year === 2017).filter(d => d.Code !== "")
 
+const getDeathRateByCountry = (countryCode) => cleanDeathRate.find(d => d.Code === countryCode)
+
+const getFillByCountry = ({properties}) => {
+  if(typeof getDeathRateByCountry(properties.iso_a3) !== 'undefined') { 
+  return getDeathRateByCountry(properties.iso_a3).deathRate > 100 
+    ? 'red' : 'orange'
+  }else{
+    return 'black';
+  }
+} 
 
 // définir la taille du svg
 const WIDTH = 1280
@@ -30,7 +39,7 @@ svg.selectAll('path')
     .enter()
     .append('path')
     .attr('d', pathCreator)
-    .attr('fill','pink')
+    .attr('fill',getFillByCountry)
     .attr('stroke','black')
 
 // les coordonnées de la gare d'Yverdon
