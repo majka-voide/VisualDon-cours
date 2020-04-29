@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "parcel exercice-surge/src/index.html",
+    "build": "parcel build -d exercice-surge/dist exercice-surge/src/index.html",
+    "deploy": "surge exercice-surge/dist --domain garrulous-lift.surge.sh/",
     "test": "echo \"Error: no test specified\" && exit 1",
     "batons:dev": "parcel 20200228/src/index.html --out-dir 20200228/dist"
   },

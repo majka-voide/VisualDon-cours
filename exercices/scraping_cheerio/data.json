@@ -1,0 +1,117 @@
+{ nom: 'Prestigio SmartB...', prix: '$299.00' }
+{ nom: 'Prestigio SmartB...', prix: '$299.00' }
+{ nom: 'Aspire E1-510', prix: '$306.99' }
+{ nom: 'Lenovo V110-15IA...', prix: '$321.94' }
+{ nom: 'Lenovo V110-15IA...', prix: '$356.49' }
+{ nom: 'Hewlett Packard...', prix: '$364.46' }
+{ nom: 'Acer Aspire 3 A3...', prix: '$372.70' }
+{ nom: 'Acer Aspire A315...', prix: '$379.94' }
+{ nom: 'Acer Aspire ES1-...', prix: '$379.95' }
+{ nom: 'Acer Aspire 3 A3...', prix: '$391.48' }
+{ nom: 'Acer Aspire 3 A3...', prix: '$393.88' }
+{ nom: 'Asus VivoBook Ma...', prix: '$399.00' }
+{ nom: 'Asus VivoBook E5...', prix: '$399.99' }
+{ nom: 'Lenovo ThinkPad...', prix: '$404.23' }
+{ nom: 'Acer Aspire 3 A3...', prix: '$408.98' }
+{ nom: 'Lenovo V110-15IS...', prix: '$409.63' }
+{ nom: 'Acer Aspire ES1-...', prix: '$410.46' }
+{ nom: 'Asus VivoBook 15...', prix: '$410.66' }
+{ nom: 'Packard 255 G2', prix: '$416.99' }
+{ nom: 'Asus EeeBook R41...', prix: '$433.30' }
+{ nom: 'Acer Aspire 3 A3...', prix: '$436.29' }
+{ nom: 'Acer Aspire ES1-...', prix: '$436.29' }
+{ nom: 'Acer Extensa 15...', prix: '$439.73' }
+{ nom: 'Acer Aspire ES1-...', prix: '$454.62' }
+{ nom: 'Lenovo V110-15IS...', prix: '$454.73' }
+{ nom: 'Acer Aspire A315...', prix: '$457.38' }
+{ nom: 'Lenovo V110-15IK...', prix: '$465.95' }
+{ nom: 'Asus VivoBook 15...', prix: '$468.56' }
+{ nom: 'Acer Aspire ES1-...', prix: '$469.10' }
+{ nom: 'Lenovo V510 Blac...', prix: '$484.23' }
+{ nom: 'Acer Aspire ES1-...', prix: '$485.90' }
+{ nom: 'Lenovo V510 Blac...', prix: '$487.80' }
+{ nom: 'Acer Swift 1 SF1...', prix: '$488.64' }
+{ nom: 'Dell Vostro 15', prix: '$488.78' }
+{ nom: 'Acer Aspire 3 A3...', prix: '$494.71' }
+{ nom: 'Dell Vostro 15 (...', prix: '$497.17' }
+{ nom: 'Lenovo V510 Blac...', prix: '$498.23' }
+{ nom: 'HP 250 G3', prix: '$520.99' }
+{ nom: 'Acer Spin 5', prix: '$564.98' }
+{ nom: 'HP 350 G1', prix: '$577.99' }
+{ nom: 'Aspire E1-572G', prix: '$581.99' }
+{ nom: 'Pavilion', prix: '$609.99' }
+{ nom: 'Acer Aspire A515...', prix: '$679.00' }
+{ nom: 'Dell Inspiron 15', prix: '$679.00' }
+{ nom: 'Asus VivoBook S1...', prix: '$729.00' }
+{ nom: 'ProBook', prix: '$739.99' }
+{ nom: 'Inspiron 15', prix: '$745.99' }
+{ nom: 'Asus ROG STRIX G...', prix: '$799.00' }
+{ nom: 'Acer Nitro 5 AN5...', prix: '$809.00' }
+{ nom: 'Asus ROG STRIX G...', prix: '$899.00' }
+{ nom: 'Lenovo ThinkPad...', prix: '$999.00' }
+{ nom: 'ThinkPad Yoga', prix: '$1033.99' }
+{ nom: 'Lenovo ThinkPad...', prix: '$1096.02' }
+{ nom: 'Dell Inspiron 15...', prix: '$1098.42' }
+{ nom: 'MSI GL72M 7RDX', prix: '$1099.00' }
+{ nom: 'MSI GL72M 7RDX', prix: '$1099.00' }
+{ nom: 'Asus ROG Strix G...', prix: '$1101.83' }
+{ nom: 'Dell Latitude 52...', prix: '$1102.66' }
+{ nom: 'Dell Latitude 54...', prix: '$1110.14' }
+{ nom: 'Lenovo Legion Y5...', prix: '$1112.91' }
+{ nom: 'Toshiba Portege...', prix: '$1114.55' }
+{ nom: 'Acer Predator He...', prix: '$1123.87' }
+{ nom: 'Acer Aspire 7 A7...', prix: '$1123.87' }
+{ nom: 'Dell Inspiron 17...', prix: '$1124.20' }
+{ nom: 'Dell Latitude 54...', prix: '$1133.82' }
+{ nom: 'Lenovo Legion Y5...', prix: '$1133.91' }
+{ nom: 'Asus AsusPro Adv...', prix: '$1139.54' }
+{ nom: 'Acer Nitro 5 AN5...', prix: '$1140.62' }
+{ nom: 'Dell Latitude 54...', prix: '$1143.40' }
+{ nom: 'Dell Inspiron 15...', prix: '$1144.20' }
+{ nom: 'Dell Latitude 55...', prix: '$1144.40' }
+{ nom: 'MSI GP62M 7RDX L...', prix: '$1149.00' }
+{ nom: 'Lenovo Legion Y5...', prix: '$1149.00' }
+{ nom: 'Lenovo Yoga 720...', prix: '$1149.73' }
+{ nom: 'Toshiba Portege...', prix: '$1154.04' }
+{ nom: 'Acer TravelMate...', prix: '$1170.10' }
+{ nom: 'Dell Latitude 55...', prix: '$1178.19' }
+{ nom: 'ThinkPad T540p', prix: '$1178.99' }
+{ nom: 'MSI GS63 7RD Ste...', prix: '$1179.00' }
+{ nom: 'Dell Latitude 54...', prix: '$1187.88' }
+{ nom: 'Acer Predator He...', prix: '$1187.98' }
+{ nom: 'MSI GL62M 7REX', prix: '$1199.00' }
+{ nom: 'MSI GL62M 7REX2', prix: '$1199.00' }
+{ nom: 'Lenovo Yoga 910...', prix: '$1199.73' }
+{ nom: 'Toshiba Portege...', prix: '$1203.41' }
+{ nom: 'Lenovo IdeaPad M...', prix: '$1212.16' }
+{ nom: 'Acer Predator He...', prix: '$1221.58' }
+{ nom: 'ThinkPad Yoga', prix: '$1223.99' }
+{ nom: 'Asus VivoBook Pr...', prix: '$1235.49' }
+{ nom: 'Dell Latitude 54...', prix: '$1238.37' }
+{ nom: 'Asus ZenBook UX5...', prix: '$1239.20' }
+{ nom: 'ThinkPad X230', prix: '$1244.99' }
+{ nom: 'Asus ROG Strix G...', prix: '$1259.00' }
+{ nom: 'Apple MacBook Ai...', prix: '$1260.13' }
+{ nom: 'Dell Latitude 54...', prix: '$1271.06' }
+{ nom: 'Hewlett Packard...', prix: '$1273.11' }
+{ nom: 'Dell XPS 13', prix: '$1281.99' }
+{ nom: 'Toshiba Portege...', prix: '$1294.74' }
+{ nom: 'MSI GL62VR 7RFX', prix: '$1299.00' }
+{ nom: 'Dell Latitude 54...', prix: '$1310.39' }
+{ nom: 'ThinkPad X240', prix: '$1311.99' }
+{ nom: 'Hewlett Packard...', prix: '$1326.83' }
+{ nom: 'Apple MacBook Pr...', prix: '$1333.00' }
+{ nom: 'Dell Latitude 55...', prix: '$1337.28' }
+{ nom: 'Dell Latitude 54...', prix: '$1338.37' }
+{ nom: 'Dell Latitude 55...', prix: '$1341.22' }
+{ nom: 'Apple MacBook Ai...', prix: '$1347.78' }
+{ nom: 'Lenovo ThinkPad...', prix: '$1349.23' }
+{ nom: 'Lenovo ThinkPad...', prix: '$1362.24' }
+{ nom: 'Toshiba Portege...', prix: '$1366.32' }
+{ nom: 'Asus ASUSPRO B94...', prix: '$1381.13' }
+{ nom: 'Asus ROG Strix G...', prix: '$1399.00' }
+{ nom: 'Lenovo Legion Y7...', prix: '$1399.00' }
+{ nom: 'Asus ROG Strix G...', prix: '$1769.00' }
+{ nom: 'Asus ROG Strix G...', prix: '$1769.00' }
+{ nom: 'Asus ROG Strix S...', prix: '$1799.00' }
+[{"nom":"Prestigio SmartB...","prix":"$299.00"},{"nom":"Prestigio SmartB...","prix":"$299.00"},{"nom":"Aspire E1-510","prix":"$306.99"},{"nom":"Lenovo V110-15IA...","prix":"$321.94"},{"nom":"Lenovo V110-15IA...","prix":"$356.49"},{"nom":"Hewlett Packard...","prix":"$364.46"},{"nom":"Acer Aspire 3 A3...","prix":"$372.70"},{"nom":"Acer Aspire A315...","prix":"$379.94"},{"nom":"Acer Aspire ES1-...","prix":"$379.95"},{"nom":"Acer Aspire 3 A3...","prix":"$391.48"},{"nom":"Acer Aspire 3 A3...","prix":"$393.88"},{"nom":"Asus VivoBook Ma...","prix":"$399.00"},{"nom":"Asus VivoBook E5...","prix":"$399.99"},{"nom":"Lenovo ThinkPad...","prix":"$404.23"},{"nom":"Acer Aspire 3 A3...","prix":"$408.98"},{"nom":"Lenovo V110-15IS...","prix":"$409.63"},{"nom":"Acer Aspire ES1-...","prix":"$410.46"},{"nom":"Asus VivoBook 15...","prix":"$410.66"},{"nom":"Packard 255 G2","prix":"$416.99"},{"nom":"Asus EeeBook R41...","prix":"$433.30"},{"nom":"Acer Aspire 3 A3...","prix":"$436.29"},{"nom":"Acer Aspire ES1-...","prix":"$436.29"},{"nom":"Acer Extensa 15...","prix":"$439.73"},{"nom":"Acer Aspire ES1-...","prix":"$454.62"},{"nom":"Lenovo V110-15IS...","prix":"$454.73"},{"nom":"Acer Aspire A315...","prix":"$457.38"},{"nom":"Lenovo V110-15IK...","prix":"$465.95"},{"nom":"Asus VivoBook 15...","prix":"$468.56"},{"nom":"Acer Aspire ES1-...","prix":"$469.10"},{"nom":"Lenovo V510 Blac...","prix":"$484.23"},{"nom":"Acer Aspire ES1-...","prix":"$485.90"},{"nom":"Lenovo V510 Blac...","prix":"$487.80"},{"nom":"Acer Swift 1 SF1...","prix":"$488.64"},{"nom":"Dell Vostro 15","prix":"$488.78"},{"nom":"Acer Aspire 3 A3...","prix":"$494.71"},{"nom":"Dell Vostro 15 (...","prix":"$497.17"},{"nom":"Lenovo V510 Blac...","prix":"$498.23"},{"nom":"HP 250 G3","prix":"$520.99"},{"nom":"Acer Spin 5","prix":"$564.98"},{"nom":"HP 350 G1","prix":"$577.99"},{"nom":"Aspire E1-572G","prix":"$581.99"},{"nom":"Pavilion","prix":"$609.99"},{"nom":"Acer Aspire A515...","prix":"$679.00"},{"nom":"Dell Inspiron 15","prix":"$679.00"},{"nom":"Asus VivoBook S1...","prix":"$729.00"},{"nom":"ProBook","prix":"$739.99"},{"nom":"Inspiron 15","prix":"$745.99"},{"nom":"Asus ROG STRIX G...","prix":"$799.00"},{"nom":"Acer Nitro 5 AN5...","prix":"$809.00"},{"nom":"Asus ROG STRIX G...","prix":"$899.00"},{"nom":"Lenovo ThinkPad...","prix":"$999.00"},{"nom":"ThinkPad Yoga","prix":"$1033.99"},{"nom":"Lenovo ThinkPad...","prix":"$1096.02"},{"nom":"Dell Inspiron 15...","prix":"$1098.42"},{"nom":"MSI GL72M 7RDX","prix":"$1099.00"},{"nom":"MSI GL72M 7RDX","prix":"$1099.00"},{"nom":"Asus ROG Strix G...","prix":"$1101.83"},{"nom":"Dell Latitude 52...","prix":"$1102.66"},{"nom":"Dell Latitude 54...","prix":"$1110.14"},{"nom":"Lenovo Legion Y5...","prix":"$1112.91"},{"nom":"Toshiba Portege...","prix":"$1114.55"},{"nom":"Acer Predator He...","prix":"$1123.87"},{"nom":"Acer Aspire 7 A7...","prix":"$1123.87"},{"nom":"Dell Inspiron 17...","prix":"$1124.20"},{"nom":"Dell Latitude 54...","prix":"$1133.82"},{"nom":"Lenovo Legion Y5...","prix":"$1133.91"},{"nom":"Asus AsusPro Adv...","prix":"$1139.54"},{"nom":"Acer Nitro 5 AN5...","prix":"$1140.62"},{"nom":"Dell Latitude 54...","prix":"$1143.40"},{"nom":"Dell Inspiron 15...","prix":"$1144.20"},{"nom":"Dell Latitude 55...","prix":"$1144.40"},{"nom":"MSI GP62M 7RDX L...","prix":"$1149.00"},{"nom":"Lenovo Legion Y5...","prix":"$1149.00"},{"nom":"Lenovo Yoga 720...","prix":"$1149.73"},{"nom":"Toshiba Portege...","prix":"$1154.04"},{"nom":"Acer TravelMate...","prix":"$1170.10"},{"nom":"Dell Latitude 55...","prix":"$1178.19"},{"nom":"ThinkPad T540p","prix":"$1178.99"},{"nom":"MSI GS63 7RD Ste...","prix":"$1179.00"},{"nom":"Dell Latitude 54...","prix":"$1187.88"},{"nom":"Acer Predator He...","prix":"$1187.98"},{"nom":"MSI GL62M 7REX","prix":"$1199.00"},{"nom":"MSI GL62M 7REX2","prix":"$1199.00"},{"nom":"Lenovo Yoga 910...","prix":"$1199.73"},{"nom":"Toshiba Portege...","prix":"$1203.41"},{"nom":"Lenovo IdeaPad M...","prix":"$1212.16"},{"nom":"Acer Predator He...","prix":"$1221.58"},{"nom":"ThinkPad Yoga","prix":"$1223.99"},{"nom":"Asus VivoBook Pr...","prix":"$1235.49"},{"nom":"Dell Latitude 54...","prix":"$1238.37"},{"nom":"Asus ZenBook UX5...","prix":"$1239.20"},{"nom":"ThinkPad X230","prix":"$1244.99"},{"nom":"Asus ROG Strix G...","prix":"$1259.00"},{"nom":"Apple MacBook Ai...","prix":"$1260.13"},{"nom":"Dell Latitude 54...","prix":"$1271.06"},{"nom":"Hewlett Packard...","prix":"$1273.11"},{"nom":"Dell XPS 13","prix":"$1281.99"},{"nom":"Toshiba Portege...","prix":"$1294.74"},{"nom":"MSI GL62VR 7RFX","prix":"$1299.00"},{"nom":"Dell Latitude 54...","prix":"$1310.39"},{"nom":"ThinkPad X240","prix":"$1311.99"},{"nom":"Hewlett Packard...","prix":"$1326.83"},{"nom":"Apple MacBook Pr...","prix":"$1333.00"},{"nom":"Dell Latitude 55...","prix":"$1337.28"},{"nom":"Dell Latitude 54...","prix":"$1338.37"},{"nom":"Dell Latitude 55...","prix":"$1341.22"},{"nom":"Apple MacBook Ai...","prix":"$1347.78"},{"nom":"Lenovo ThinkPad...","prix":"$1349.23"},{"nom":"Lenovo ThinkPad...","prix":"$1362.24"},{"nom":"Toshiba Portege...","prix":"$1366.32"},{"nom":"Asus ASUSPRO B94...","prix":"$1381.13"},{"nom":"Asus ROG Strix G...","prix":"$1399.00"},{"nom":"Lenovo Legion Y7...","prix":"$1399.00"},{"nom":"Asus ROG Strix G...","prix":"$1769.00"},{"nom":"Asus ROG Strix G...","prix":"$1769.00"},{"nom":"Asus ROG Strix S...","prix":"$1799.00"}]
