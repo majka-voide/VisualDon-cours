@@ -1,12 +1,3 @@
-# Mise en place d'un projet de carte d3
+# Exercice "Mon premier graphique" (mise en ligne surge & github page)
 
-## Utilisation
-
-Creez un nouveau dossier au nom de votre projet, copiez cette mise en place et installez les librairies nécessaires:
-
-```
-mkdir mon-projet
-cd mon-projet
-npx degit idris-maps/heig-datavis-2020/template/d3-carte
-npm install
-```
+Affichage des pays qui ont un ratio de morts à cause de la cigarette supérieur (rouge) ou inférieur (orange) à 100 / 100k habitants, en 2017.
